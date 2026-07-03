@@ -1,7 +1,0 @@
-//FONCTIONS
-
-
-//FONCTION LAUNCH()
-
-
-//LEAFLET
